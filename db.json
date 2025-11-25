@@ -1,0 +1,39 @@
+{
+  "checkin": [
+    {
+      "id": 1,
+      "idreserva": 101,
+      "nomeHospede": "José Silva",
+      "tipoquarto": "Luxo",
+      "limitePessoas": 3,
+      "DataCheckIn": "2025-11-22",
+      "HoraCheckIn": "14:30",
+      "Status": "aguardando"
+    }
+  ],
+  "checkout": [
+    {
+      "id": 1,
+      "idreserva": 101,
+      "nomeHospede": "José Silva",
+      "tipoquarto": "Luxo",
+      "limitePessoas": 3,
+      "DataCheckIn": "2025-11-22",
+      "HoraCheckIn": "14:30",
+      "Status": "aguardando"
+    }
+  ],
+  "pedido": [
+    {
+      "id": 1,
+      "numeroQuarto": "101",
+      "hospede": "jao",
+      "item": "coca lata",
+      "valorUnitario": "5,00",
+      "servico": "lavanderia",
+      "valor": "30,00",
+      "valorTotal": "35,00"
+    }
+  ]
+}
+
