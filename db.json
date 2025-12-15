@@ -35,14 +35,15 @@
       "valorTotal": "35,00"
     },
     {
-      "id": 1,
+      "id": 2,
       "numeroQuarto": "208",
       "hospede": "Josy",
-      "item": "coca lata",
+      "item": "coca 600ml",
       "valorUnitario": "10,00",
       "servico": "",
       "valor": "00,00",
       "valorTotal": "10,00"
+      "Status":"Preparando"
     }
   ]
 }
