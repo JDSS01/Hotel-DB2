@@ -27,13 +27,23 @@
     {
       "id": 1,
       "numeroQuarto": "101",
-      "hospede": "jao",
+      "hospede": "Jose",
       "item": "coca lata",
       "valorUnitario": "5,00",
       "servico": "lavanderia",
       "valor": "30,00",
       "valorTotal": "35,00"
-    }
+    },
+    {
+      "id": 1,
+      "numeroQuarto": "208",
+      "hospede": "Josy",
+      "item": "coca lata",
+      "valorUnitario": "10,00",
+      "servico": "",
+      "valor": "00,00",
+      "valorTotal": "10,00"
+    },
   ]
 }
 
