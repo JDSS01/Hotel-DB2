@@ -110,9 +110,9 @@
       "id": 3,
       "numeroQuarto": "305",
       "hospede": "Carlos",
-      "item": "Água mineral",
-      "valorUnitario": "4,00",
-      "servico": "Room Service",
+      "item": "",
+      "valorUnitario": "0,00",
+      "servico": "Passadeira",
       "valor": "15,00",
       "valorTotal": "19,00"
     },
@@ -122,7 +122,7 @@
       "hospede": "Ana",
       "item": "Sanduíche",
       "valorUnitario": "18,00",
-      "servico": "Room Service",
+      "servico": " ",
       "valor": "0,00",
       "valorTotal": "18,00"
     }
