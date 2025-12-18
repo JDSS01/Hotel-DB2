@@ -9,8 +9,39 @@
       "DataCheckIn": "2025-11-22",
       "HoraCheckIn": "14:30",
       "Status": "aguardando"
+    },
+    {
+      "id": 2,
+      "idreserva": 102,
+      "nomeHospede": "Maria Oliveira",
+      "tipoquarto": "Standard",
+      "limitePessoas": 2,
+      "DataCheckIn": "2025-11-23",
+      "HoraCheckIn": "13:00",
+      "Status": "confirmado"
+    },
+    {
+      "id": 3,
+      "idreserva": 103,
+      "nomeHospede": "Carlos Pereira",
+      "tipoquarto": "Suíte",
+      "limitePessoas": 4,
+      "DataCheckIn": "2025-11-24",
+      "HoraCheckIn": "15:00",
+      "Status": "confirmado"
+    },
+    {
+      "id": 4,
+      "idreserva": 104,
+      "nomeHospede": "Ana Souza",
+      "tipoquarto": "Luxo",
+      "limitePessoas": 3,
+      "DataCheckIn": "2025-11-25",
+      "HoraCheckIn": "12:30",
+      "Status": "aguardando"
     }
   ],
+
   "checkout": [
     {
       "id": 1,
@@ -20,17 +51,48 @@
       "limitePessoas": 3,
       "DataCheckIn": "2025-11-22",
       "HoraCheckIn": "14:30",
+      "Status": "pendente"
+    },
+    {
+      "id": 2,
+      "idreserva": 102,
+      "nomeHospede": "Maria Oliveira",
+      "tipoquarto": "Standard",
+      "limitePessoas": 2,
+      "DataCheckIn": "2025-11-23",
+      "HoraCheckIn": "13:00",
+      "Status": "finalizado"
+    },
+    {
+      "id": 3,
+      "idreserva": 103,
+      "nomeHospede": "Carlos Pereira",
+      "tipoquarto": "Suíte",
+      "limitePessoas": 4,
+      "DataCheckIn": "2025-11-24",
+      "HoraCheckIn": "15:00",
+      "Status": "pendente"
+    },
+    {
+      "id": 4,
+      "idreserva": 104,
+      "nomeHospede": "Ana Souza",
+      "tipoquarto": "Luxo",
+      "limitePessoas": 3,
+      "DataCheckIn": "2025-11-25",
+      "HoraCheckIn": "12:30",
       "Status": "aguardando"
     }
   ],
+
   "pedido": [
     {
       "id": 1,
       "numeroQuarto": "101",
-      "hospede": "Jose",
-      "item": "coca lata",
+      "hospede": "José",
+      "item": "Coca lata",
       "valorUnitario": "5,00",
-      "servico": "lavanderia",
+      "servico": "Lavanderia",
       "valor": "30,00",
       "valorTotal": "35,00"
     },
@@ -38,12 +100,31 @@
       "id": 2,
       "numeroQuarto": "208",
       "hospede": "Josy",
-      "item": "coca 600ml",
+      "item": "Coca 600ml",
       "valorUnitario": "10,00",
       "servico": "",
-      "valor": "00,00",
+      "valor": "0,00",
       "valorTotal": "10,00"
+    },
+    {
+      "id": 3,
+      "numeroQuarto": "305",
+      "hospede": "Carlos",
+      "item": "Água mineral",
+      "valorUnitario": "4,00",
+      "servico": "Room Service",
+      "valor": "15,00",
+      "valorTotal": "19,00"
+    },
+    {
+      "id": 4,
+      "numeroQuarto": "410",
+      "hospede": "Ana",
+      "item": "Sanduíche",
+      "valorUnitario": "18,00",
+      "servico": "Room Service",
+      "valor": "0,00",
+      "valorTotal": "18,00"
     }
   ]
 }
-
